@@ -2,7 +2,7 @@
 
 ## Getting Super Powers
 
-Becoming a super hero is a fairly straight forward [process](that-one/a-child/grandchild.md):
+Becoming a super hero is a fairly straight forward [process]():
 
 ```
 $ give me super-powers
@@ -25,5 +25,5 @@ sasas
 
 ![](.gitbook/assets/sfprofiles.png)
 
-{% page-ref page="that-one/a-child/" %}
+{% page-ref page="that-one/a-child.md" %}
 
