@@ -12,7 +12,3 @@ blakh
 
 blah
 
-####  Head 3
-
-blah
-
