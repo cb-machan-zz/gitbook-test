@@ -1,8 +1,8 @@
-# Initial page
+# Broiler Initial page
 
 ## Getting Super Powers
 
-Becoming a super hero is a fairly straight forward [process](that-one/a-child/grandchild.md#head-3):
+Becoming a super hero is a fairly straight forward [process]():
 
 ```
 $ give me super-powers
@@ -14,10 +14,9 @@ $ give me super-powers
 
 Once you're strong enough, save the world:
 
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
+
+
+swine fllll 
 
 {% hint style="info" %}
 sasas
@@ -25,5 +24,10 @@ sasas
 
 ![](.gitbook/assets/sfprofiles.png)
 
-{% page-ref page="that-one/a-child/" %}
+{% page-ref page="untitled/that-one/untitled-2/untitled-1/a-child/" %}
+
+```
+// Ain't no code for that yet, sorry
+echo 'You got to trust me on this, I saved the world'
+```
 
